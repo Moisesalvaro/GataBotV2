@@ -3,7 +3,7 @@ global.linkGC = ['https://chat.whatsapp.com/JlomZPEgo3bLmzjGUYPfyJ' , 'https://c
 global.channelYT = ['https://www.youtube.com/channel/UCSTDMKjbm-EmEovkygX-lCA'] // No tiene utilidad
 global.owner = ['593993684821' , '51993042301' , '529996125657'] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
 global.mods = ['5219992095479' , '972557048356'] // No tiene utilidad
-global.prems = ['5219996125657' , '5219991402134'] // No tiene utilidad
+global.prems = ['51987812647' , '5219991402134'] // No tiene utilidad
 
 // Nota: Puedes contactarme si necesitas ayuda con algo al +994407312387 (Solo temas de la instalación)
 // => Solo dudas sobre la instalación, temas generales contactarme al +593968585383 (Temas serios, si vas a intervenir al chat para molesrtar seras bloqueado/a) 
@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'GataBot 🐈'
-global.author = 'Gata Dios'
+global.author = '𝙈𝙊𝙄𝙎𝙀 𝘽𝙊𝙏'
 
 
 //global.wait = '*Esperé un momento..*'
